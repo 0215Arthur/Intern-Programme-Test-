@@ -15,7 +15,8 @@ vector<string> split(string str, char del){
  }
  利用stringstream精妙的数据分割，学到了！
 
-'''c++
+```
+c++
  
 #include <iostream>
 #include <string>
@@ -82,4 +83,4 @@ int main(){
      
     return 0;
 }
-'''
+```
